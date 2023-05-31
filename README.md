@@ -1,3 +1,2 @@
 # Food Insecurity
-<H2>Our plans for this project<H/2>
   Our project is aimed at addressing food insecurity amongst the UCLA studnet community and the detrimental effects of a student's physical and mental well-being. The map aims to empower students through exposure of their experiences and the available resources within the community. Some problem we may face is the integration of data and gathering the relevant information as well as ensuring the protection of private information and considering the student experience. UCLA Fitted is an organization that could utlize this resource by exposing UCLA to the student experience and help highlight how students are handling their own food security. 
